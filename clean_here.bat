@@ -10,3 +10,4 @@ del /s *.recipe
 del /s *.FileListAbsolute.txt
 del /s *.lastbuildstate
 del /s *.tlog
+del /s *.abcdef
